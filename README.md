@@ -1,6 +1,6 @@
 **2018-05-16**
 
-Summary:。
+Summary:
 
 # Video Caption
 
@@ -16,6 +16,7 @@ github：https://github.com/zxy14120448/video-caption.pytorch
 # Image Search
 [1]《AMC: Attention guided Multi-modal Correlation Learning for Image Search》
 2017CVPR
+关键词：Ranking loss
 Abstract:
 arxiv: https://arxiv.org/abs/1704.00763
 github: https://github.com/kanchen-usc/amc_att
