@@ -16,7 +16,7 @@ github：https://github.com/zxy14120448/video-caption.pytorch
 
 注：
 # Image Search
-[1]《AMC: Attention guided Multi-modal Correlation Learning for Image Search》2017CVPR
+《AMC: Attention guided Multi-modal Correlation Learning for Image Search》2017CVPR
 
 关键字：Ranking loss
 
@@ -25,3 +25,13 @@ Abstract:
 arxiv: https://arxiv.org/abs/1704.00763
 
 github: https://github.com/kanchen-usc/amc_att
+
+《Class-Weighted Convolutional Features for Visual Instance Search》2017arxiv
+
+关键字：CAM(class activation map),feature aggregation
+
+Abstract:
+
+arxiv: https://arxiv.org/pdf/1707.02581.pdf
+
+github: https://github.com/zxy14120448/retrieval-2017-cam
