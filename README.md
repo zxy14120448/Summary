@@ -35,3 +35,9 @@ Abstract:
 arxiv: https://arxiv.org/pdf/1707.02581.pdf
 
 github: https://github.com/zxy14120448/retrieval-2017-cam
+
+# 消融实验的论文
+
+《Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition》
+
+链接：http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Actional-Structural_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.pdf
