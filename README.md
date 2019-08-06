@@ -40,4 +40,6 @@ github: https://github.com/zxy14120448/retrieval-2017-cam
 
 《Greedy AutoAugment》
 
+贪婪的自动数据增广，GAutoAug可提高20.87%的性能（准确率）
+
 链接：https://arxiv.org/pdf/1908.00704.pdf
